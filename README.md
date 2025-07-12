@@ -1,79 +1,90 @@
-# 👩‍💻 Venkata Padma Yesaswi Madabattula
+### 👋 Hi there, I'm **Yesaswi Madabattula** (she/her)
 
-AI/ML Developer | Deep Learning Enthusiast | Full Stack Learner | Passionate about building impactful tech solutions
+**AI/ML Developer** | **Deep Learning Enthusiast** | **Full Stack Learner**  
+🎯 Passionate about building impactful, intelligent tech solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yesaswi-madabattula)
-[![GitHub](https://img.shields.io/badge/GitHub-Yesaswi33-black?logo=github)](https://github.com/Yesaswi33)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:madabattulayesaswi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesaswi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yesaswi-madabattula)
+[![GitHub](https://img.shields.io/badge/GitHub-Yesaswi33-black?style=flat-square&logo=github)](https://github.com/Yesaswi33)
+[![Email](https://img.shields.io/badge/Email-madabattulayesaswi@gmail.com-red?style=flat-square&logo=gmail)](mailto:madabattulayesaswi@gmail.com)
 
 ---
 
 ### 🎓 Education
 
-- **B.Tech CSE (AIML)** @ MVGR College of Engineering (2022–Present) – **CPI: 9.29**
-- **Intermediate (MPC)** @ Sri Chaitanya College (2020–2022) – **CPI: 9.60**
-- **SSC** @ Sri Chaitanya School (2019–2020) – **CPI: 10.0**
+- **B.Tech – CSE (AIML)** @ MVGR College of Engineering (2022–Present)  
+  *CPI:* `9.29`
+- **Intermediate – MPC** @ Sri Chaitanya Junior College (2020–2022)  
+  *CPI:* `9.60`
+- **SSC** @ Sri Chaitanya School (2019–2020)  
+  *GPA:* `10.0`
 
 ---
 
 ### 💼 Internship Experience
 
-- 🧪 **Research Intern – NIT Warangal**
-  - Developed a **Food Scanner** using ML & CV – *92% estimation accuracy*
-  - Built a **Dyslexia Detection Tool** – *reduced diagnosis time by 30%*
+- 🧪 **AI/ML Research Intern** – NIT Warangal *(May–July 2025)*  
+  Developed a **Food Scanner** (92% accurate) and **Dyslexia Detection Tool** (30% faster diagnosis)
 
-- 🧑‍💻 **Salesforce Virtual Intern**
-  - Created a **CRM for Rice Mills** using Apex & SOQL
-  - Automated workflows – *20% error reduction*
+- 💼 **Virtual Intern** – Salesforce *(Dec 2024)*  
+  Built a **CRM for Rice Mills** using Apex, SOQL & Lightning App Builder
 
-- 🔐 **IBM Edunet Foundation / AICTE Intern**
-  - Built **Secure Data Hiding** using *Steganography + AES* – *98% retrieval accuracy*
+- 🔐 **Virtual Intern** – IBM Edunet Foundation / AICTE *(Feb 2025)*  
+  Developed **Secure Data Hiding System** with Steganography + AES (98% accuracy)
 
 ---
 
 ### 🚀 Projects
 
 - 🔍 **Multi-Domain Recommendation System**  
-  ML-based assistant with **85% recommendation relevance**
+  Virtual assistant with 85% recommendation relevance using ML + Firebase
 
-- 🧾 **RAG-Powered Legal Assistant**  
-  Document summarizer reducing analysis time by **50%**
+- 📄 **RAG-Powered Legal Assistant**  
+  Reduced document analysis time by 50% with Retrieval-Augmented Generation
 
-- 🥔 **Potato Leaf Disease Classification**  
-  CNN model with **93% accuracy**, deployed using **FastAPI + ReactJS**
+- 🌿 **Potato Leaf Disease Classification**  
+  CNN model deployed with FastAPI + ReactJS – 93% accuracy
 
-- 🪖 **Helmet Detection (Hybrid DL Model)**  
-  Combines **MobileNetV2, EfficientNet, ResNet50** – **93% detection accuracy**
+- 🪖 **Helmet Detection using Hybrid DL**  
+  Real-time detection using MobileNetV2, EfficientNet, and ResNet50 – 93% accuracy
 
 ---
 
-### 🧠 Skills
+### 💡 Tech Stack
 
-**Languages:** Python, C, C++, JavaScript  
-**ML/AI:** Machine Learning, Deep Learning, CV, NLP, Transformers, LangChain, LLMs  
-**Frameworks:** TensorFlow, Scikit-learn, Pandas, OpenCV, Matplotlib  
-**Web:** HTML, CSS, Flask, Django, FastAPI, Streamlit  
-**Tools:** Git, VSCode, Postman  
-**Database:** MySQL
+`Python` `C` `C++` `Java` `JavaScript`  
+`HTML` `CSS` `Flask` `FastAPI` `Django` `Streamlit`  
+`TensorFlow` `PyTorch` `Scikit-learn` `OpenCV` `Pandas` `NumPy`  
+`MySQL` `Git` `VSCode` `Postman`
 
 ---
 
 ### 🏆 Achievements
 
-- 🏅 **Academic Excellence Award** – MVGR CSE (AIML)
-- 👨‍💻 **TechXcelerate Hackathon** – Finalist @ BITS Pilani
+- 🏅 **Academic Excellence Award** – MVGR College of Engineering (CSE-AIML)
+- 🧠 **TechXcelerate Hackathon Finalist** – BITS Pilani 2025
 
 ---
 
 ### 📜 Certifications
 
-- Cisco: IT Essentials, CCNA (Intro, SRWE, ENSA), Python, Cybersecurity  
-- IBM SkillBuild: Cyber Security  
-- Microsoft Learn: Fundamental AI Concepts  
-- Great Learning: C, DSA, Python, C++, OOPS  
-- EdX: Macroeconomics
+- **Cisco Networking Academy**  
+  `IT Essentials` `CCNA Intro, SRWE, ENSA` `Python L1 & L2` `Cybersecurity`
+
+- **IBM SkillBuild** – `Cyber Security`  
+- **Microsoft Learn** – `Fundamental AI Concepts`  
+- **Great Learning** – `C`, `C++`, `Python`, `DSA`, `OOPS`  
+- **EdX** – `Macroeconomics`
 
 ---
 
-> *"Learning never exhausts the mind." – Leonardo da Vinci*
+### 📌 Currently Working On
 
+- Integrating **AI/ML** into real-world applications  
+- Improving deep learning model deployment with **FastAPI** and **Streamlit**  
+- Blogging about **AI/ML**, **project journeys**, and **tech learnings** (Coming soon...)
+
+---
+
+> 🧠 *“Learning never exhausts the mind.” – Leonardo da Vinci*
+
+---
