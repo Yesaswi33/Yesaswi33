@@ -50,6 +50,10 @@
 - 🪖 **Helmet/No Helmet Detection [DL]** *(2025)*  
   Hybrid DL model (MobileNetV2, EfficientNet, ResNet50) – 93% accuracy  
   [GitHub: helmet-nohelmet_dl](https://github.com/Yesaswi33/helmet-nohelmet_dl)
+  
+- 👁️ **Retinal Disease Classification Web App [DL]** *(2025)*  
+  Custom ResNet9 CNN model (PyTorch, Streamlit) to detect 10 retinal conditions from fundus images — supports CPU and CUDA-based inference  
+  [GitHub: retinal_disease_classification_web_app_DL](https://github.com/Yesaswi33/retinal_disease_classification_web_app_DL)
 
 ---
 
