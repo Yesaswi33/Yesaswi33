@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm **Yesaswi Madabattula** (she/her)
 
-**AI/ML Developer** | **Deep Learning Enthusiast** | **Full Stack Learner**  
+**AI/ML Developer** | **Full Stack Learner**  
 🎯 Passionate about building impactful, intelligent tech solutions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yesaswi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yesaswi-madabattula)
