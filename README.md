@@ -55,6 +55,11 @@
   Custom ResNet9 CNN model (PyTorch, Streamlit) to detect 10 retinal conditions from fundus images — supports CPU and CUDA-based inference  
   [GitHub: retinal_disease_classification_web_app_DL](https://github.com/Yesaswi33/retinal_disease_classification_web_app_DL)
 
+  -  **Video Summerization using agentic ai** *(2025)*  
+Leveraged multi-agent workflow using LangGraph and OpenAI API to generate concise summaries from long-form videos. Integrated Streamlit frontend with YouTube transcript extraction, OpenAI LLM, and summary output display  [GitHub: video_summerization_agenticai](https://github.com/Yesaswi33/video_summerizarion_agenticai)
+
+  
+
 ---
 
 ### 💡 Tech Stack
